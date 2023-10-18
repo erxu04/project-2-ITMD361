@@ -55,7 +55,7 @@ img {
 .movie {
   overflow: hidden;
   padding: 25px;
-  margin: 25px;
+  margin-bottom: 25px;
   background-color: bisque;
   border-radius: 20px;
 }
@@ -71,4 +71,12 @@ img {
 
 #wind-bg{
   background-image: url('../images/wind_rises_bg.jpg');
+  background-size: 110%;
 }
+
+#lighter-text {
+  color: white;
+}
+ .page-content {
+  margin: 25px;
+ }
