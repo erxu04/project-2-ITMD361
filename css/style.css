@@ -90,7 +90,21 @@ img {
   border-radius: 0.35em;
 }
 
+#bookbodydiv {
+  display:flex;
+  justify-content: center;
+}
+
 .book-div {
-  width:30%;
-  float: left;
+  width:min-content;
+  display: inline-block;
+  text-align: center;
+  margin: 2em;
+}
+
+.book-img {
+  width: 20em;
+  height: 27em;
+  margin-bottom: 1em;
+
 }
