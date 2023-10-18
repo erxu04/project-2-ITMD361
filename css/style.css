@@ -43,11 +43,23 @@ p {
 }
 
 img {
-  width: 35%;
-  height: 30%;
+  width: 25%;
   float: left;
+  margin-right: 25px;
 }
 
 .cleared-float {
   clear: both;
+}
+
+.movie {
+  overflow: hidden;
+  padding: 25px;
+  margin: 25px;
+  background-color: bisque;
+  border-radius: 20px;
+}
+
+#poppy-bg {
+  
 }
