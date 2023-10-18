@@ -64,4 +64,7 @@ img {
   background-image: url('../images/poppy_hill_bg.jpg');
 }
 
-
+#whisper-bg {
+  background-image: url('../images/whisper_of_heart_bg.jpg');
+  background-size: 120%;
+}
