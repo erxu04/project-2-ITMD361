@@ -108,3 +108,9 @@ img {
   margin-bottom: 1em;
 
 }
+
+#fixed-width{
+  width: min-content;
+  margin-left: auto;
+  margin-right: auto;
+}
