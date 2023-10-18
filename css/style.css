@@ -32,6 +32,7 @@
 
 h1, h2, h3 {
   font-family: 'Tilt Neon', sans-serif;
+  
 }
 
 p {
@@ -45,7 +46,7 @@ p {
 img {
   width: 25%;
   float: left;
-  margin-right: 25px;
+  margin-right: 1em;
 }
 
 .cleared-float {
@@ -54,10 +55,10 @@ img {
 
 .movie {
   overflow: hidden;
-  padding: 25px;
-  margin-bottom: 25px;
+  padding: 1.1em;
+  margin-bottom: 1.3em;
   background-color: bisque;
-  border-radius: 20px;
+  border-radius: 1em;
 }
 
 #poppy-bg {
@@ -77,6 +78,14 @@ img {
 #lighter-text {
   color: white;
 }
- .page-content {
-  margin: 25px;
- }
+
+.page-content {
+  margin: 1.3em;
+}
+
+.resume-header {
+  background-color:rgb(250, 229, 246);
+  width: fit-content;
+  padding: 0.3em;
+  border-radius: 0.35em;
+}
