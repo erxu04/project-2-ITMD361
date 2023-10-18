@@ -66,5 +66,9 @@ img {
 
 #whisper-bg {
   background-image: url('../images/whisper_of_heart_bg.jpg');
-  background-size: 120%;
+  background-size: 125%;
+}
+
+#wind-bg{
+  background-image: url('../images/wind_rises_bg.jpg');
 }
